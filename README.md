@@ -10,7 +10,7 @@ Professional UI automation framework using Playwright (POM + multi-browser + CI/
 
 ## Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/ui-automation-playwright.git
+git clone https://github.com/ankushmahto/ui-automation-playwright.git
 cd ui-automation-playwright
 npm install
 npx playwright install
